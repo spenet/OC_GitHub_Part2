@@ -1,4 +1,4 @@
-Attribute VB_Name = "Mod_Template_Sub_Func"
+Attribute VB_Name = "Mod_Template_Func"
 '________________________________________________________________________________
 '
 ' Author      : Sylvain P.
